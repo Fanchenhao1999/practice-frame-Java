@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastjson-frame/fastjson-frame.iml" filepath="$PROJECT_DIR$/fastjson-frame/fastjson-frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-frame-Java.iml" filepath="$PROJECT_DIR$/practice-frame-Java.iml" />
+    </modules>
+  </component>
+</project>
