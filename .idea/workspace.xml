@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dca53e6d-eff4-4c77-af0c-8d0d120c5d51" name="Default Changelist" comment="" />
+    <list default="true" id="dca53e6d-eff4-4c77-af0c-8d0d120c5d51" name="Default Changelist" comment="--这是第一次提交 实践-框架-JAVA">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/test/resources/config.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/test/resources/jdbc.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/test/resources/log4j.properties.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/testng-httpclient-allure-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-test-frame/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/known/KnownTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/known/TestNGBasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/testngXML/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-test-frame/testng-test-frame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest-test-frame/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest-test-frame/src/test/java/com/fan/known/KnownUnittest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unittest-test-frame/unittest-test-frame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastjson-frame/src/main/java/know/KnowFastJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson-frame/src/main/java/know/KnowFastJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice-frame-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice-frame-Java.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +37,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -30,13 +59,16 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectId" id="2HOGMZyFARdBeLKWEhFMUosFqdE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaWeb-brand01" />
@@ -44,17 +76,37 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.36595395" />
   </component>
-  <component name="RunManager" selected="TestNG.KnowFastJson.testParseObject">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\fan\practice-frame-Java\testng-httpclient-allure-project\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/fan/practice-frame-Java/testng-test-frame/src/testngXML/testng.xml">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/fan/practice-frame-Java/testng-test-frame/src/testngXML/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng-test-frame" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-test-frame/src/testngXML/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,6 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/fan/practice-frame-Java/testng-test-frame/src/testngXML/testng.xml" />
         <item itemvalue="TestNG.KnowFastJson.testParseObject" />
         <item itemvalue="TestNG.KnowFastJson.testJsonObject" />
         <item itemvalue="TestNG.KnowFastJson.outJsonString" />
@@ -131,11 +184,48 @@
       <updated>1668148673137</updated>
       <workItem from="1668148674357" duration="4225000" />
       <workItem from="1668156899522" duration="4240000" />
-      <workItem from="1668393462999" duration="466000" />
+      <workItem from="1668393462999" duration="2951000" />
+      <workItem from="1668492457689" duration="10921000" />
     </task>
+    <task id="LOCAL-00001" summary="--这是第一次提交 实践-框架-JAVA">
+      <created>1668394522808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668394522808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="--这是第一次提交 实践-框架-JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="--这是第一次提交 实践-框架-JAVA" />
   </component>
 </project>

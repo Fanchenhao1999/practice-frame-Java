@@ -129,7 +129,6 @@ public class KnowFastJson {
         PersonDeom personDeom1 = JSON.parseObject(parsePerson,PersonDeom.class);
         Assert.assertEquals(personDeom1.getAge(),10);
         Assert.assertEquals(personDeom1.getFullName(),listOfPersons.get(0).getFullName());
-
     }
 
 }

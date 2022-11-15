@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/fastjson-frame/fastjson-frame.iml" filepath="$PROJECT_DIR$/fastjson-frame/fastjson-frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice-frame-Java.iml" filepath="$PROJECT_DIR$/practice-frame-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testng-httpclient-allure-project/testng-httpclient-allure-project.iml" filepath="$PROJECT_DIR$/testng-httpclient-allure-project/testng-httpclient-allure-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testng-test-frame/testng-test-frame.iml" filepath="$PROJECT_DIR$/testng-test-frame/testng-test-frame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unittest-test-frame/unittest-test-frame.iml" filepath="$PROJECT_DIR$/unittest-test-frame/unittest-test-frame.iml" />
     </modules>
   </component>
 </project>

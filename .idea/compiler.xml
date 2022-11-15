@@ -6,12 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="testng-test-frame" />
         <module name="fastjson-frame" />
+        <module name="unittest-test-frame" />
+        <module name="testng-httpclient-allure-project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fastjson-frame" target="8" />
       <module name="practice-frame-Java" target="8" />
+      <module name="testng-httpclient-allure-project" target="8" />
+      <module name="testng-test-frame" target="8" />
+      <module name="unittest-test-frame" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

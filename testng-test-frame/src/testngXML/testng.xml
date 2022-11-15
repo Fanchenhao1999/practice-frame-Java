@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--首先要声明一个suite的名字，用于描述将要运行的测试脚本集，可以根据自己需要任意命名，最终这个名字会在testng的测试报告中看到。-->
+<suite name="BasicAnnotationSuite">
+    <test name="BasicAnnotationTest">
+        <classes>
+            <class name="com.fan.known.TestNGBasicAnnotation"></class>
+        </classes>
+    </test>
+</suite>
