@@ -9,15 +9,24 @@
         <module name="testng-test-frame" />
         <module name="fastjson-frame" />
         <module name="unittest-test-frame" />
+        <module name="httpclient-http-frame" />
         <module name="testng-httpclient-allure-project" />
+        <module name="spring-boot-test-frame" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fastjson-frame" target="8" />
+      <module name="httpclient-http-frame" target="8" />
       <module name="practice-frame-Java" target="8" />
+      <module name="spring-boot-test-frame" target="1.8" />
       <module name="testng-httpclient-allure-project" target="8" />
       <module name="testng-test-frame" target="8" />
       <module name="unittest-test-frame" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-test-frame" options="-parameters" />
+    </option>
   </component>
 </project>

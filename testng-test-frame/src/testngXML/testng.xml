@@ -1,9 +1,38 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <!--首先要声明一个suite的名字，用于描述将要运行的测试脚本集，可以根据自己需要任意命名，最终这个名字会在testng的测试报告中看到。-->
 <suite name="BasicAnnotationSuite">
-    <test name="BasicAnnotationTest">
+   <!-- <test name="BasicAnnotationTest">
         <classes>
             <class name="com.fan.known.TestNGBasicAnnotation"></class>
         </classes>
+    </test>-->
+    <!-- <test name="conCurrentTesting" parallel="methods" thread-count="2">
+            <groups>
+                <run>
+                    <include name="t8"></include>
+                </run>
+            </groups>
+            <classes>
+                <class name="com.fan.known.TestNGConcurrenttesting"></class>
+            </classes>
+        </test>-->
+    <!--当我们需要在测试执行时看到测试执行的连续状态时，主要使用日志监听-->
+    <!--
+    <listeners>
+        <listener class-name="com.fan.demo.CustomListener"></listener>
+    </listeners>
+    <test name="CustomListener">
+        <classes>
+            <class name="com.fan.demo.SampleTest"></class>
+        </classes>
     </test>
+    -->
+   <listeners>
+      <listener class-name="com.fan.demo.CustomReporter"></listener>
+   </listeners>
+   <test name="customReporter">
+      <classes>
+         <class name="com.fan.demo.SampleTest2"></class>
+      </classes>
+   </test>
 </suite>
