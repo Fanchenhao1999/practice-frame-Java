@@ -7,13 +7,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.testng:Testng:6.14.3" level="project" />
-    <orderEntry type="library" name="Maven: com.beust:jcommander:1.72" level="project" />
-    <orderEntry type="library" name="Maven: org.apache-extras.beanshell:bsh:2.0b6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven.plugins:maven-javadoc-plugin:3.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-core:3.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.maven:maven-settings-builder:3.0" level="project" />
@@ -81,5 +79,9 @@
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-io:3.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-interactivity-api:1.0-alpha-6" level="project" />
+    <orderEntry type="library" name="Maven: org.testng:Testng:6.14.3" level="project" />
+    <orderEntry type="library" name="Maven: com.beust:jcommander:1.72" level="project" />
+    <orderEntry type="library" name="Maven: org.apache-extras.beanshell:bsh:2.0b6" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.75" level="project" />
   </component>
 </module>

@@ -1,4 +1,4 @@
-package com.fan.Utils;
+package com.fan.utils;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpStatus;
@@ -16,8 +16,8 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
-
 import org.json.JSONObject;
+
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
@@ -27,7 +27,7 @@ import java.util.Map.Entry;
 import java.util.Set;
 
 
-public  class HttpClientUtils {
+public class HttpClientUtils {
 
     // 编码格式。发送编码格式统一用UTF-8
     private static final String ENCODING = "UTF-8";
@@ -112,13 +112,10 @@ public  class HttpClientUtils {
      * @param url
      * @return
      */
-
     public static String doPost(String url) throws Exception {
 
         return doPost(url,null,null);
-
     }
-
     /**
      * 发送POST请求,不带Token，带请求参数
      * @param url

@@ -24,6 +24,13 @@
             <version>6.14.3</version>
             <!-- <scope>test</scope> 限制了中能在test目录下使用，去掉后可在main文件夹下使用-->
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.75</version>
+        </dependency>
+
     </dependencies>
 
     <modules>

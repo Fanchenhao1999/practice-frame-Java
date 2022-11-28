@@ -4,169 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dca53e6d-eff4-4c77-af0c-8d0d120c5d51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/fileTemplates/includes/File Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_2_0_M10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_11_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_core_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_decoration_model_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_logging_api_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml5_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_module_xhtml_1_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_sink_api_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_site_renderer_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_doxia_doxia_skin_model_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_archiver_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_core_3_02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_settings_builder_3_02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_javadoc_plugin_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_reporting_maven_reporting_api_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_artifact_transfer_0_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_common_artifact_filters_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_invoker_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_utils_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_68.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_archiver_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_i18n_1_0_beta_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_io_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_velocity_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_iq80_snappy_snappy_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_02.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_api_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_impl_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_spi_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_aether_aether_util_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_cipher_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_sec_dispatcher_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_tukaani_xz_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/httpclient-http-frame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/Utils/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/CloseableHttpClientDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/HttpClientUtilsDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/known/KnownHttpClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/demo/CustomListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/demo/CustomReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/demo/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/demo/SampleTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng-test-frame/src/test/java/com/fan/known/TestNGConcurrenttesting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="dca53e6d-eff4-4c77-af0c-8d0d120c5d51" name="Default Changelist" comment="--这是第三次提交，认识框架，封装工具类">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/Icase/LoginMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/Icase/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/core/MyBatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/dao/CaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/dao/CaseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/entity/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/test/DemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/test/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/known/KnownHttpClientUtilsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/known/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/utils/HttpClientUtilsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/utils/StringToUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/main/java/com/fan/request/RequestFieldUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/main/java/com/fan/request/RequestInterfaceUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/main/java/com/fan/testcase/GetLoginToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/main/java/com/fan/utils/HttpClientUtilsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/main/java/com/fan/utils/StringToUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/src/test/java/com/fan/autotest/demo/TestDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson-frame/fastjson-frame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson-frame/fastjson-frame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson-frame/target/classes/know/KnowFastJson$PersonDeom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson-frame/target/classes/know/KnowFastJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/httpclient-http-frame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient-http-frame/httpclient-http-frame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient-http-frame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/Utils/HttpClientUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient-http-frame/src/main/java/com/fan/utils/HttpClientUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/CloseableHttpClientDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/CloseableHttpClientDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/HttpClientUtilsDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/demo/HttpClientUtilsDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/known/KnownHttpClient.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice-frame-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/practice-frame-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-httpclient-allure-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng-httpclient-allure-project/testng-httpclient-allure-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-httpclient-allure-project/testng-httpclient-allure-project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-test-frame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-test-frame/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng-test-frame/src/testngXML/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-test-frame/src/testngXML/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng-test-frame/testng-test-frame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testng-test-frame/testng-test-frame.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unittest-test-frame/unittest-test-frame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unittest-test-frame/unittest-test-frame.iml" afterDir="false" />
     </list>
@@ -178,6 +55,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -219,6 +98,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -229,19 +109,24 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-test-frame/src/main/java/com/example/springboottestframe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testng-httpclient-allure-project/src/main" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.21195652" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11001098" />
+    <property name="project.structure.side.proportion" value="0.28078818" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="settings.editor.splitter.proportion" value="0.36595395" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fan\practice-frame-Java\testng-httpclient-allure-project\src\main" />
+      <recent name="D:\fan\practice-frame-Java\testng-httpclient-allure-project\src\main\java\com\fan" />
+      <recent name="D:\fan\practice-frame-Java\httpclient-http-frame\src\main\resources" />
+      <recent name="D:\fan\practice-frame-Java\httpclient-http-frame\src\main\java\com\fan\dao" />
       <recent name="D:\fan\practice-frame-Java\spring-boot-test-frame\src\main\java\com\example\springboottestframe" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -251,30 +136,48 @@
       <recent name="com.fan" />
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fan.utils" />
+      <recent name="com.fan.Utils" />
+      <recent name="com.fan.core" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.HttpClientUtilsDemo01.doGet">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestDemo">
+    <configuration name="GetLoginToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fan.testcase.GetLoginToken" />
+      <module name="testng-httpclient-allure-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fan.autotest.demo.TestDemo" />
+      <module name="testng-httpclient-allure-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fan.autotest.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-test-frame" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="Application" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -299,17 +202,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="httpclient-http-frame" />
+    <configuration name="GetLoginToken.tmsOrderReturnLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testng-httpclient-allure-project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fan.demo.*" />
+          <option name="PATTERN" value="com.fan.testcase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fan.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.fan.demo.DemoTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.fan.testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.testcase.GetLoginToken" />
+      <option name="METHOD_NAME" value="tmsOrderReturnLogin" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -317,17 +220,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpClientUtilsDemo01.doGet" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KnownHttpClientUtilsDemo.postRequestForm02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="httpclient-http-frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fan.demo.*" />
+          <option name="PATTERN" value="com.fan.known.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fan.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.fan.demo.HttpClientUtilsDemo01" />
-      <option name="METHOD_NAME" value="doGet" />
+      <option name="PACKAGE_NAME" value="com.fan.known" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.known.KnownHttpClientUtilsDemo" />
+      <option name="METHOD_NAME" value="postRequestForm02" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -335,35 +238,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpClientUtilsDemo01.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KnownHttpClientUtilsDemo.postRequestJson" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="httpclient-http-frame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fan.demo.*" />
+          <option name="PATTERN" value="com.fan.known.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fan.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.fan.demo.HttpClientUtilsDemo01" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test01.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="httpclient-http-frame" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fan.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fan.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.fan.demo.Test01" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="com.fan.known" />
+      <option name="MAIN_CLASS_NAME" value="com.fan.known.KnownHttpClientUtilsDemo" />
+      <option name="METHOD_NAME" value="postRequestJson" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -452,21 +337,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.Application" />
       <item itemvalue="TestNG.D:/fan/practice-frame-Java/testng-test-frame/src/testngXML/testng.xml" />
-      <item itemvalue="TestNG.Test01.test01" />
-      <item itemvalue="TestNG.DemoTest.test01" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.81" />
-      <item itemvalue="TestNG.HttpClientUtilsDemo01.doGet" />
-      <item itemvalue="TestNG.HttpClientUtilsDemo01.test01" />
+      <item itemvalue="TestNG.KnownHttpClientUtilsDemo.postRequestForm02" />
+      <item itemvalue="TestNG.KnownHttpClientUtilsDemo.postRequestJson" />
+      <item itemvalue="TestNG.GetLoginToken.tmsOrderReturnLogin" />
+      <item itemvalue="Application.GetLoginToken" />
+      <item itemvalue="Application.TestDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HttpClientUtilsDemo01.doGet" />
-        <item itemvalue="TestNG.HttpClientUtilsDemo01.test01" />
-        <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="TestNG.DemoTest.test01" />
-        <item itemvalue="TestNG.Test01.test01" />
+        <item itemvalue="Application.TestDemo" />
+        <item itemvalue="TestNG.GetLoginToken.tmsOrderReturnLogin" />
+        <item itemvalue="Application.GetLoginToken" />
+        <item itemvalue="TestNG.KnownHttpClientUtilsDemo.postRequestJson" />
+        <item itemvalue="TestNG.KnownHttpClientUtilsDemo.postRequestForm02" />
       </list>
     </recent_temporary>
   </component>
@@ -486,7 +371,12 @@
       <workItem from="1668648909423" duration="12203000" />
       <workItem from="1668739123510" duration="6239000" />
       <workItem from="1668755753523" duration="3641000" />
-      <workItem from="1669018874832" duration="4366000" />
+      <workItem from="1669018874832" duration="8876000" />
+      <workItem from="1669167617467" duration="2397000" />
+      <workItem from="1669190909962" duration="2237000" />
+      <workItem from="1669268160922" duration="1185000" />
+      <workItem from="1669357062410" duration="7034000" />
+      <workItem from="1669602441718" duration="22879000" />
     </task>
     <task id="LOCAL-00001" summary="--这是第一次提交 实践-框架-JAVA">
       <created>1668394522808</created>
@@ -502,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668505811964</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="--这是第三次提交，认识框架，封装工具类">
+      <created>1669025678724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669025678724</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,7 +432,23 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="--这是第一次提交 实践-框架-JAVA" />
     <MESSAGE value="--这是第二次提交，新增了TestNG测试框架、unittest测试框架、testng+httpclient+allure+project项目模板；" />
-    <option name="LAST_COMMIT_MESSAGE" value="--这是第二次提交，新增了TestNG测试框架、unittest测试框架、testng+httpclient+allure+project项目模板；" />
+    <MESSAGE value="--这是第三次提交，认识框架，封装工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="--这是第三次提交，认识框架，封装工具类" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/httpclient-http-frame/src/test/java/com/fan/utils/HttpClientUtilsDemo.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
